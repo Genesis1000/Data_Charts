@@ -1,2 +1,2 @@
 # Data_Charts
-This shows simple way to represent data in the form of charts
+This shows simple ways to Visualize data in a understandable manner
